@@ -9,6 +9,10 @@ This dataset presents transactions that occurred in two days, where we have 492 
 
 Link - [Credit Card Fraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
+## Dataset
+
+Link - [creditcard.csv](https://www.kaggle.com/code/emadanas/credit-card-fraud-detection-using-machine-learning/input)
+
 ## Summary
 
 - The **amount of all fraud transactions are below 2250** inorder to avoid suspicious.
